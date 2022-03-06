@@ -1,6 +1,5 @@
 //  Zarai Huete
-//  COP 3502, Spring 2019
-//  za780541
+
 
 #include "DupeyDupe.h"
 #include <stdio.h>
